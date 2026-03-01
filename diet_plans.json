@@ -1,0 +1,22 @@
+{
+  "Underweight": {
+    "weight_loss": "Not recommended.",
+    "weight_gain": "High protein diet with calorie surplus.",
+    "healthy": "Balanced diet with healthy fats and proteins."
+  },
+  "Normal": {
+    "weight_loss": "Mild calorie deficit with cardio.",
+    "weight_gain": "Increase protein intake and strength training.",
+    "healthy": "Maintain balanced macronutrients."
+  },
+  "Overweight": {
+    "weight_loss": "Calorie deficit with regular exercise.",
+    "weight_gain": "Not recommended.",
+    "healthy": "Low carb balanced diet."
+  },
+  "Obese": {
+    "weight_loss": "Strict calorie deficit and medical supervision.",
+    "weight_gain": "Not recommended.",
+    "healthy": "Low calorie high fiber diet."
+  }
+}
