@@ -1,4 +1,4 @@
-# Health and Fitness Guide
+# Fitness Tracker
 
 A Python Tkinter-based GUI application that calculates BMI, recommends diet plans, tracks weight, calories, and exercise, and visualizes progress using Matplotlib.
 
